@@ -1,0 +1,7 @@
+{
+  "type": "patch",
+  "comment": "Renovate bump dependency version",
+  "packageName": "c",
+  "email": "kchau@micrososft.com",
+  "dependentChangeType": "patch"
+}
